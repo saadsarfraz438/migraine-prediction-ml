@@ -37,7 +37,7 @@ Survey-based migraine dataset collected through **Google Forms**.
 
 ### Dataset Files
 - `Part 1`: Raw survey responses (`100 responses`)
-- `Part 2`: Processed and engineered dataset (`CSV format`)
+- `Part 2`: Processed and engineered dataset (`xlxs format`)
 - `Part 3`: Colabbook (python code)
 
 ### Features Included

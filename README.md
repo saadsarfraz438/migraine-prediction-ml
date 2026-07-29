@@ -197,6 +197,7 @@ Google Colab / Jupyter Notebook
 ├── data/
 │   ├── migraine_prediction_survey.xlsx
 │   ├── migraine_prediction.csv
+|   ├──assests
 │
 ├── notebook/
 │   └── model_training.ipynb
@@ -216,7 +217,18 @@ Google Colab / Jupyter Notebook
 ### Get Predictions:
 [![Prediction](https://img.shields.io/badge/View%20migraine_Pridiction-Get%20Pridiction-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://saadsarfraz438.github.io/migraine-prediction-ml/)
 
+---
 
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
+![App Screenshot](assets/3.png)
+![App Screenshot](assets/4.png)
+![App Screenshot](assets/5.png)
+![App Screenshot](assets/5.1.png)
+![App Screenshot](assets/5.2.png)
+![App Screenshot](assets/5.3.png)
+
+---
 
 ### Future Improvements
 
